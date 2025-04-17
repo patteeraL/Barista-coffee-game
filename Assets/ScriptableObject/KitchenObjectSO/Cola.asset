@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a735cbbee706538419b1a902ce5cd710, type: 3}
+  m_Name: Cola
+  m_EditorClassIdentifier: 
+  prefabs: {fileID: 7038280108909176512, guid: db9703f63d6f2f94a91fe668cd2e4933, type: 3}
+  sprite: {fileID: 21300000, guid: e492c05d06e201d4bbfb1e5efffafc11, type: 3}
+  objectName: Cola

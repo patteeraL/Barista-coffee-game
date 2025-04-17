@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53489cf5f4636446b2d75efd9905977, type: 3}
+  m_Name: Plain Burger_FF
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 0862bad94d2f7834fa897970a3653e44, type: 2}
+  - {fileID: 11400000, guid: cb2fbf0809d0c454e83ba837c0477e58, type: 2}
+  - {fileID: 11400000, guid: b094b9620147e6943857d93c754563f2, type: 2}
+  recipeName: Plain Burger & French Fries
